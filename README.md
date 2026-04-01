@@ -7,6 +7,7 @@ Built a time series forecasting model to analyze sales trends, identify seasonal
 
 ## Dashboard Preview  
 <img width="1155" height="649" alt="forecast-overview" src="https://github.com/user-attachments/assets/2d8298a0-8586-4281-8460-e0ddf273ea0b" />
+
 <img width="1137" height="652" alt="sales-trends-and-performance-drivers" src="https://github.com/user-attachments/assets/10761171-845a-4ec1-b47c-aee663f0aabc" />
 
 ---
