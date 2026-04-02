@@ -1,4 +1,4 @@
-# Retail Sales Forecasting & Trend Analysis
+# Sales & Profitability Forecasting
 
 Forecasted retail sales trends using Python to support inventory planning, staffing, and business decision-making.
 
