@@ -30,7 +30,7 @@ Sales and profit move together over time, but profit is more volatile, indicatin
 
 ## Case Study
 
-[Sales & Profitability Forecasting Case Study](case_study.pdf)
+[Sales & Profitability Forecasting Case Study.pdf](https://github.com/user-attachments/files/26452069/Sales.Profitability.Forecasting.Case.Study.pdf)
 
 ## Key Insights
 
